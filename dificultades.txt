@@ -1,0 +1,26 @@
+1. Desarrollo móvil
+•Errores en la aplicación.
+•Problemas de seguridad y privacidad.
+•Compatibilidad con diferentes celulares.
+•Consumo excesivo de batería o datos.
+•Fallos después de actualizaciones.
+
+2. Aplicaciones nativas, híbridas y multiplataforma
+•Nativas: pueden requerir más tiempo y recursos si se desarrolla para varios sistemas.
+•Híbridas: pueden presentar problemas de rendimiento en algunas funciones.
+•Multiplataforma: algunas funciones específicas del celular pueden ser más difíciles de implementar.
+
+3. Tecnologías utilizadas
+•Las tecnologías pueden quedar desactualizadas.
+•Puede haber problemas de compatibilidad entre versiones
+•Se necesita aprender y actualizar constantemente los conocimientos.
+
+4. Kotlin y Swift
+•Kotlin: principalmente orientado a Android; puede requerir conocimientos específicos de ese sistema.
+•Swift: está enfocado en el ecosistema de Apple, por lo que desarrollar para otras plataformas requiere otras herramientas.
+
+5. Flutter y React Native
+•Pueden presentar limitaciones al usar funciones muy específicas del dispositivo.
+•Dependencia de actualizaciones de sus frameworks y librerías.
+•Algunos errores pueden ser difíciles de solucionar cuando intervienen componentes nativos.
+
