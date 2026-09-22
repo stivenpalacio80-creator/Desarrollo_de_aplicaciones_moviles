@@ -1,0 +1,51 @@
+Consiste en diseñar y programar aplicaciones que aprovechan los recursos del dispositivo, como la cámara, el GPS y la memoria. Puede ser nativo (creado específicamente para Android o iOS con lenguajes como Kotlin o Swift) o multiplataforma (usando un solo código para ambos sistemas con frameworks como Flutter o React Native)
+
+ 
+
+Las aplicaciones nativas se construyen de forma específica para un sistema operativo (como Android o iOS) usando lenguajes propios (Kotlin/Java o Swift), logrando el máximo rendimiento, mientras que las híbridas combinan tecnologías web (HTML, CSS, JS) dentro de un contenedor nativo y las multiplataforma utilizan un código único compartido que se comunica con los componentes nativos a través de un framework (como Flutter o React Native)
+
+ 
+
+Desarrollo Nativo:
+
+·         Android: Kotlin y Java con Android Jetpack
+
+·         iOS: Swift y SwiftUI.
+
+·         Ventaja: Máximo rendimiento y acceso total al hardware del dispositivo
+
+Desarrollo Multiplataforma:
+
+·         Flutter: Framework de Google que usa el lenguaje Dart para compilar código nativo.
+
+·         React Native: Biblioteca basada en React y JavaScript.
+
+·         Kotlin Multiplatform (KMP): Permite compartir la lógica de negocio entre Android e iOS manteniendo interfaces nativas.
+
+·         Ventaja: Menor costo inicial y código unificado
+
+ 
+
+Las buenas prácticas para Kotlin (Android nativo), Swift (iOS nativo), Flutter y React Native se centran en mantener un código limpio, optimizar el rendimiento y asegurar una buena experiencia de usuario
+
+
+
+El diseño adaptable o responsive es fundamental porque garantiza que un sitio web o aplicación se vea y funcione correctamente en cualquier dispositivo, mejorando la experiencia del usuario y el posicionamiento en buscadores
+
+ 
+
+·  Justo a tiempo: Solicita cada permiso solo cuando el usuario active la función (sin pedir todo al abrir la app).
+
+·  Menor privilegio: Usa opciones aproximadas o temporales ("solo esta vez") y prefiere los selectores del sistema (Photo Picker) sobre accesos globales al almacenamiento o cámara.
+
+·  Transparencia: Explica claramente para qué sirve el permiso antes de pedirlo.
+
+·  Degradación elegante: Si el usuario rechaza el permiso, permite que la app siga funcionando en todo lo demás.
+
+ 
+
+Desarrollar para dispositivos móviles permite llegar a una gran audiencia global gracias a la portabilidad y uso masivo de los teléfonos inteligentes, pero enfrenta retos técnicos debido a la fragmentación de dispositivos y sistemas operativos
+
+ 
+
+Algunos ejemplos de aplicaciones móviles conocidas son WhatsApp, Spotify y Netflix, las cuales destacan por seguir excelentes prácticas de desarrollo, diseño y seguridad
